@@ -8,6 +8,7 @@ ciconfig:
 build-github-pages:
 	mkdir -p local
 	docker run -v `pwd`/local:/local --user `id --user` $$DDSDRUN_DOCKER_IMAGE cp -R /app/data /local/ddsddata-data
+	mv local/ddsddata-data/snapshots ./
 	mv local/ddsddata-data/indexes ./
 	rm -fr local
 
