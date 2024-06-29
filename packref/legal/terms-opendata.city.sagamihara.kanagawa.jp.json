@@ -1,0 +1,26 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "http://www.city.sagamihara.kanagawa.jp/shisei/opendata/index.html",
+        "sha256": "a8b11d4b576a6a956ad881bcfa2a739948e44f6d41119d73b0e038f5afcec4af"
+      },
+      "file:r:pdf": {
+        "url": "https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/005/928/opendata_kiyaku_20180328.pdf",
+        "sha256": "91e0e17ae0c6b5a0a4f0b5cd4298403479ef09ed4f56c8047e1d5663a7387753"
+      }
+    },
+    "skip_other_files": true
+  },
+  "terms_url": null,
+  "packref_license": "CC0-1.0",
+  "meta": {
+    "lang": "ja",
+    "title": "相模原市オープンデータ利用規約",
+    "author": "相模原市",
+    "page_url": "https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/005/928/opendata_kiyaku_20180328.pdf"
+  },
+  "is_legal": true
+}

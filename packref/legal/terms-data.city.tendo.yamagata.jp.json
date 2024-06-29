@@ -1,0 +1,22 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "https://data.city.tendo.yamagata.jp/about",
+        "sha256": "4fdae53679418d74cba6f25c6b666e5a8881db6ef6a712ae1696ef5181260d52"
+      }
+    },
+    "skip_other_files": true
+  },
+  "terms_url": "https://data.city.tendo.yamagata.jp/about",
+  "packref_license": "CC0-1.0",
+  "meta": {
+    "lang": "ja",
+    "title": "天童市オープンデータ利用規約",
+    "author": "天童市",
+    "page_url": "https://data.city.tendo.yamagata.jp/about"
+  },
+  "is_legal": true
+}

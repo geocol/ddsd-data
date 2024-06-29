@@ -1,0 +1,22 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "https://opendata-api-kakogawa.jp/odp/tos/",
+        "sha256": "5982e69a0fcf0cd7bdff22923a69983ab771a385b850111ecda9627df4f9135f"
+      }
+    },
+    "skip_other_files": true
+  },
+  "terms_url": "https://opendata-api-kakogawa.jp/odp/tos/",
+  "packref_license": "CC0-1.0",
+  "meta": {
+    "lang": "ja",
+    "title": "加古川市オープンデータカタログサイト利用規約",
+    "author": "加古川市",
+    "page_url": "https://opendata-api-kakogawa.jp/odp/tos/"
+  },
+  "is_legal": true
+}
