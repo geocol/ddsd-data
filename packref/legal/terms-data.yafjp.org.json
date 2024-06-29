@@ -1,0 +1,36 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:artnavi": {
+        "url": "https://artnavi.yokohama/lod/",
+        "sha256" : "670f5ed4ba874e53e768f5be38d847a9aaba10b2db869e2bf7b67e3926e50e57",
+        "name": "artnavi.yokohama.lod.html"
+      },
+      "file:r:yafjp": {
+        "url": "https://p.yafjp.org/opendata_api/",
+        "sha256" : "a26431e1c9a69411a6842be35de4f194977035fc7c31118383df693ccb54ae77",
+        "name": "p.yafjp.org.opendata_api.html"
+      },
+      "file:r:logo": {
+        "url": "https://artnavi.yokohama/wp-content/themes/yokohama_art_navi_ga4/images/yokohama_art_lod.svg",
+        "sha256" : "79c204a2e4850980a8b2906aad1c21e150df53af2710a863af1e84df0dde53a0"
+      },
+      "file:r:reference": {
+        "url": "https://data.yafjp.org/reference.html",
+        "sha256" : "3e13b1cbb82b6646b0acac2be7ae92ec3e9505eefc4a83662b8c11e1c0c0ab86"
+      }
+    },
+    "skip_other_files": true
+  },
+  "meta": {
+    "lang": "ja",
+    "title": "公益財団法人 横浜市芸術文化振興財団:オープンデータ・API",
+    "page_url": "https://p.yafjp.org/opendata_api/",
+    "author": "公益財団法人 横浜市芸術文化振興財団"
+  },
+  "terms_url": null,
+  "packref_license": "CC0-1.0",
+  "is_legal": true
+}

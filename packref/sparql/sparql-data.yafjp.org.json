@@ -1,0 +1,22 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:sparql": {
+        "url": "http://data.yafjp.org/sparql",
+        "insecure": true,
+        "set_type": "sparql"
+      }
+    }
+  },
+  "meta": {
+    "lang": "ja",
+    "page_url": "https://artnavi.yokohama/lod/",
+    "title": "ヨコハマ・アート・LOD Endpoint",
+    "author": "ヨコハマ・アート・LOD プロジェクト",
+    "org": "公益財団法人横浜市芸術文化振興財団"
+  },
+  "terms_url": "https://artnavi.yokohama/lod/",
+  "packref_license": "CC0-1.0"
+}

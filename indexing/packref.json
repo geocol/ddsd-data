@@ -1,0 +1,14 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:list.json": {
+        "url": "list.json",
+        "name": "list.json"
+      }
+    }
+  },
+  "content_license": "CC0-1.0",
+  "packref_license": "CC0-1.0"
+}

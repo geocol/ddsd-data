@@ -59,7 +59,7 @@
     "terms_url": "https://opendata.pref.kanagawa.jp/terms",
     "source": {
       "type": "packref",
-      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kanagawa.json"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.pref.kanagawa.jp"
     },
     "legal_key": "-ddsd-terms-opendata.pref.kanagawa.jp"
   },
@@ -107,7 +107,7 @@
     "terms_url": "https://artnavi.yokohama/lod/",
     "source": {
       "type": "packref",
-      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/yokohamaart.json"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.yafjp.org.json"
     },
     "legal_key": "-ddsd-terms-data.yafjp.org"
   },
