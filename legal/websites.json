@@ -59,7 +59,7 @@
     "terms_url": "https://opendata.pref.kanagawa.jp/terms",
     "source": {
       "type": "packref",
-      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.pref.kanagawa.jp"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.pref.kanagawa.jp.json"
     },
     "legal_key": "-ddsd-terms-opendata.pref.kanagawa.jp"
   },
