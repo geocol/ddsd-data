@@ -5,12 +5,12 @@
     "files": {
       "file:r:artnavi": {
         "url": "https://artnavi.yokohama/lod/",
-        "sha256" : "670f5ed4ba874e53e768f5be38d847a9aaba10b2db869e2bf7b67e3926e50e57",
+        "sha256" : "9ec89d3e4ffe9fb8c727b87c36430141533d898f0c1a5cbbeed9ef3ca61fc8d4",
         "name": "artnavi.yokohama.lod.html"
       },
       "file:r:yafjp": {
         "url": "https://p.yafjp.org/opendata_api/",
-        "sha256" : "a26431e1c9a69411a6842be35de4f194977035fc7c31118383df693ccb54ae77",
+        "sha256" : "bdc9cd143b51b484820436945afe5628ebdec22ad7d97ca29cd108174d3747e5",
         "name": "p.yafjp.org.opendata_api.html"
       },
       "file:r:logo": {
