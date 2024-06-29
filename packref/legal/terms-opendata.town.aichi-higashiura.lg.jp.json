@@ -1,0 +1,28 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "http://open-imagedata.town.aichi-higashiura.lg.jp/rules/",
+        "sha256" : "2e2fe51a4e384e622c2d49609af9d5bed81fbaa9a9a8600436496cab8f46be02",
+        "name": "rules.html"
+      },
+      "file:r:pdf": {
+        "url": "http://open-imagedata.town.aichi-higashiura.lg.jp/cp-bin/wordpress/wp-content/uploads/2023/09/hg-opendata-riyoukiyaku_2023.pdf",
+        "sha256" : "a4c12aa1329788bd78b5fe2dd5f1b540c7a0ceefe062d7823a3e05a32b150b88"
+      }
+    },
+    "skip_other_files": true
+  },
+  "is_legal": true,
+  "meta": {
+    "lang": "ja",
+    "title": "東浦町オープンデータ利用規約",
+    "page_url": "http://open-imagedata.town.aichi-higashiura.lg.jp/cp-bin/wordpress/wp-content/uploads/2023/09/hg-opendata-riyoukiyaku_2023.pdf",
+    "author": "東浦町"
+  },
+  "terms_url": "http://open-imagedata.town.aichi-higashiura.lg.jp/rules/",
+  "packref_license": "CC0-1.0",
+  "is_legal": true
+}

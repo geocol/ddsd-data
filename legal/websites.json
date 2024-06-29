@@ -114,9 +114,10 @@
   
   {
     "url_prefix": "http://opendata.town.aichi-higashiura.lg.jp/",
+    "terms_url": "http://open-imagedata.town.aichi-higashiura.lg.jp/rules/",
     "source": {
       "type": "packref",
-      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/hu.json"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.town.aichi-higashiura.lg.jp.json"
     },
     "legal_key": "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp"
   }
