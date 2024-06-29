@@ -1,0 +1,578 @@
+{
+  "-ddsd-cc": {
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "Creative Commons",
+    "is_free": "sometimes",
+    "possible": [
+      "CC0-1.0",
+      "CC-BY-1.0", "CC-BY-2.0", "CC-BY-3.0", "CC-BY-4.0",
+      "-ddsd-cc-by-2.1", "-ddsd-cc-by-2.1-jp",
+      "-ddsd-cc-by-sa"
+    ]
+  },
+  
+  "CC0-1.0": {
+    "is_free": "free"
+  },
+  
+  "-ddsd-cc-by": {
+    "is_free": "free",
+    "notice": {
+      "need_holder": true,
+      "need_url": true,
+      "need_title": true,
+      "need_modified_flag": true
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "Creative Commons Attribution",
+    "desc_url": "https://opendefinition.org/licenses/cc-by/",
+    "possible": [
+      "CC-BY-1.0", "CC-BY-2.0", "CC-BY-3.0", "CC-BY-4.0",
+      "-ddsd-cc-by-2.1", "-ddsd-cc-by-2.1-jp"
+    ]
+  },
+  "CC-BY-1.0": {
+    "is_free": "free",
+    "notice": {
+      "need_holder": true,
+      "need_title": true,
+      "need_modified_flag": true
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "Creative Commons Attribution 1.0 Generic",
+    "full_url": "https://creativecommons.org/licenses/by/1.0/"
+  },
+  "CC-BY-2.0": {
+    "is_free": "free",
+    "notice": {
+      "need_holder": true,
+      "need_url": true,
+      "need_title": true,
+      "need_modified_flag": true
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "Creative Commons Attribution 2.0 Generic",
+    "full_url": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "-ddsd-cc-by-2.1": {
+    "is_free": "free",
+    "notice": {
+      "need_holder": true,
+      "need_url": true,
+      "need_title": true,
+      "need_modified_flag": true
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "Creative Commons Attribution 2.1",
+    "possible": ["-ddsd-cc-by-2.1-jp"]
+  },
+  "-ddsd-cc-by-2.1-jp": {
+    "is_free": "free",
+    "notice": {
+      "need_holder": true,
+      "need_url": true,
+      "need_title": true,
+      "need_modified_flag": true
+    },
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "クリエイティブ・コモンズ 表示 2.1 日本",
+    "full_url": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "CC-BY-3.0": {
+    "is_free": "free",
+    "notice": {
+      "need_holder": true,
+      "need_url": true,
+      "need_title": true,
+      "need_modified_flag": true
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "Creative Commons Attribution 3.0 Unported",
+    "full_url": "https://creativecommons.org/licenses/by/3.0/"
+  },
+  "CC-BY-4.0": {
+    "is_free": "free",
+    "notice": {
+      "need_holder": true,
+      "need_url": true,
+      "need_modified_flag": true
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "Creative Commons Attribution 4.0 International",
+    "full_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+
+  "-ddsd-jpgov-standard": {
+    "is_free": "sometimes",
+    "possible": ["-ddsd-jpgov-standard-2.0"]
+  },
+  
+  "-ddsd-jpgov-standard-2.0": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "政府標準利用規約(第2.0版)",
+    "full_url": "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
+    "is_free": "free"
+  },
+  "-ddsd-plateau": {
+    "is_free": "free"
+  },
+  "-ddsd-terms-www.gsj.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "産総研地質調査総合センターの研究成果情報の利用について (更新：2024年2月6日)",
+    "full_url": "https://www.gsj.jp/license/license.html",
+    "notice": {
+      "template_not_modified": "{title}（{holder}、産総研地質調査総合センター）（{url}）",
+      "template": "{title}（{holder}、産総研地質調査総合センター）（{url}）を使用し、{modified_by}が加筆修正したものである。",
+      "need_holder": true,
+      "need_title": true,
+      "need_url": true,
+      "need_modified_flag": true,
+      "need_modified_by": true
+    },
+    "jpgov-standard": "2.0",
+
+    "alt": [
+      {
+        "type": "license",
+        "key": "CC-BY-4.0"
+      }
+    ]
+  },
+  
+  "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "東浦町オープンデータ利用規約",
+    "full_url": "https://www.town.aichi-higashiura.lg.jp/material/files/group/4/20180801_opendatakiyaku.pdf",
+    "notice": {
+      "holder": "東浦町"
+    },
+
+    "alt": [
+      {
+        "type": "fallback_license",
+        "key": "CC-BY-4.0",
+        "notice": {
+          "template_not_modified": "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\n（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+          "template": "この著作物は、以下の著作物を改変して利用しています。\n{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示 4.0 国際\n（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+          "need_title": true
+        }
+      }
+    ]
+  },
+  
+  "-ddsd-terms-city.himeji.gkan.jp-himeji": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+    "full_url": "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+    "notice": {
+      "holder": "姫路市"
+    },
+    "is_free": "free",
+
+    "alt": [
+      {
+        "type": "license",
+        "key": "CC-BY-4.0",
+        "notice": {
+          "need_holder": true,
+          "need_title": true,
+          "need_url": true
+        }
+      }
+    ]
+  },
+  "-ddsd-terms-city.himeji.gkan.jp-takasago": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+    "full_url": "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+    "notice": {
+      "holder": "高砂市",
+      "template_not_modified": "出典: 「{title}」（高砂市）（{url}）",
+      "template": " 「{title}」（高砂市）（{url}）を加工して作成",
+      "need_modified_flag": true,
+      "need_title": true,
+      "need_url": true
+    },
+    "jpgov-standard": "2.0",
+    "is_free": "free",
+
+    "alt": [
+      {
+        "type": "license",
+        "key": "CC-BY-4.0"
+      }
+    ]
+  },
+  "-ddsd-terms-city.himeji.gkan.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "オープンデータ利用規約",
+    "full_url": "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+
+    "conditional": [
+      {
+        "type": "license",
+        "key": "-ddsd-terms-city.himeji.gkan.jp-himeji"
+      },
+      {
+        "type": "license",
+        "key": "-ddsd-terms-city.himeji.gkan.jp-takasago"
+      }
+    ]
+  },
+  "-ddsd-terms-odcs.bodik.jp-260002": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "京都府オープンデータ利用規約",
+    "full_url": "https://odcs.bodik.jp/260002/tos/",
+    "alt": [
+      {
+        "type": "fallback_license",
+        "key": "CC-BY-4.0"
+      }
+    ]
+  },
+  "-ddsd-terms-odcs.bodik.jp-452017": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "宮崎市オープンデータカタログサイト利用規約",
+    "full_url": "https://odcs.bodik.jp/452017/tos/",
+    "alt": [
+      {
+        "type": "fallback_license",
+        "key": "CC-BY-4.0",
+        "notice": {
+          "holder": "宮崎市",
+          "template_not_modified": "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0\n　（https://creativecommons.org/licenses/by/4.0/legalcode.ja）",
+          "template": "この著作物は以下の著作物を改変して利用しています。{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0（https://creativecommons.org/licenses/by/4.0/legalcode.ja）",
+          "need_title": true,
+          "need_holder": true
+        }
+      }
+    ]
+  },
+  "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "金沢市オープンデータポータル 利用規約",
+    "full_url": "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+    "conditional": [
+      {
+        "type": "license",
+        "key": "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi"
+      },
+      {
+        "type": "license",
+        "key": "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken"
+      }
+    ]
+  },
+  "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "金沢市オープンデータ利用規約 (平成 29 年１月 30 日から施行)",
+    "full_url": "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf",
+    "alt": [
+      {
+        "type": "fallback_license",
+        "key": "-ddsd-cc",
+        "notice": {
+          "holder": "金沢市",
+          "template_not_modified": "「{title}」（{holder}）（{url}）",
+          "template": "「{title}」（{holder}）（{url}）を加工して作成",
+          "need_title": true,
+          "need_url": true,
+          "need_holder": true
+        }
+      }
+    ]
+  },
+  "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "石川中央都市圏オープンデータ",
+    "full_url": "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+    "alt": [
+      {
+        "type": "fallback_license",
+        "key": "-ddsd-cc",
+        "notice": {
+          "holder": "石川中央都市圏オープンデータ ",
+          "template_not_modified": "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）",
+          "template": "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）を加工して作成",
+          "need_title": true,
+          "need_url": true,
+          "need_holder": true
+        }
+      }
+    ]
+  },
+  "-ddsd-terms-data.city.ikoma.lg.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+    "full_url": "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+    "alt": [
+      {
+        "type": "fallback_license",
+        "key": "CC-BY-4.0",
+        "notice": {
+          "holder": "生駒市",
+          "template_not_modified": "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+          "template": "この著作物は以下の著作物を改変して利用しています。\n{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+          "need_modified_flag": true,
+          "need_title": true,
+          "need_holder": true
+        }
+      }
+    ]
+  },
+  "-ddsd-terms-opendata.pref.kanagawa.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "神奈川県オープンデータカタログサイト利用規約 (令和６年２月)",
+    "full_url": "https://opendata.pref.kanagawa.jp/wp-content/uploads/2024/02/terms_of_service_202402.pdf",
+    "alt": [
+      {
+        "type": "fallback_license",
+        "key": "CC-BY-4.0",
+        "notice": {
+          "holder": "神奈川県",
+          "template_not_modified": "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+          "template": "この著作物は以下の著作物を改変して利用しています。\n{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+          "need_modified_flag": true,
+          "need_title": true,
+          "need_holder": true
+        }
+      }
+    ]
+  },
+  "-ddsd-terms-opendata.pref.akita.lg.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "秋田県オープンデータカタログサイト利用規約 (令和5年3月20日に制定)",
+    "full_url": "https://opendata.pref.akita.lg.jp/term",
+    "alt": [
+      {
+        "type": "fallback_license",
+        "key": "CC-BY-4.0",
+        "notice": {
+          "holder": "秋田県",
+          "template_not_modified": "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0\n（https://creativecommons.org/licenses/by/4.0/legalcode.ja）",
+          "template": "この著作物は以下の著作物を改変して利用しています。{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示4.0\n（https://creativecommons.org/licenses/by/4.0/legalcode.ja）",
+          "need_modified_flag": true,
+          "need_title": true,
+          "need_holder": true
+        }
+      }
+    ]
+  },
+  "-ddsd-terms-data.city.yokohama.lg.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+    "full_url": "https://data.city.yokohama.lg.jp/terms.html",
+    "alt": [
+      {
+        "type": "fallback_license",
+        "key": "CC-BY-4.0",
+        "notice": {
+          "holder": "神奈川県横浜市",
+          "template_not_modified": "{title}、{holder}\nクリエイティブ・コモンズ・ライセンス 表示4.0 国際\n（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+          "template": "この著作物は、以下の著作物を改変して利用しています。\n{title}、{holder}\nクリエイティブ・コモンズ・ライセンス 表示4.0 国際\n（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+          "need_modified_flag": true,
+          "need_title": true,
+          "need_holder": true
+        }
+      }
+    ]
+  },
+  "-ddsd-terms-opendata.city.sagamihara.kanagawa.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "相模原市オープンデータ利用規約（最終更新日：平成30年3月28日）",
+    "full_url": "https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/005/928/opendata_kiyaku_20180328.pdf",
+    "alt": [
+      {
+        "type": "fallback_license",
+        "key": "CC-BY-4.0",
+        "notice": {
+          "holder": "相模原市",
+          "template_not_modified": "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0（http://creativecommons.org/licenses/by/4.0）",
+          "template": "この著作物は以下の著作物を改変して利用しています。\n{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0（http://creativecommons.org/licenses/by/4.0）",
+          "need_modified_flag": true,
+          "need_title": true,
+          "need_holder": true
+        }
+      }
+    ]
+  },
+  "-ddsd-terms-data.city.tendo.yamagata.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "天童市オープンデータ利用規約",
+    "full_url": "https://data.city.tendo.yamagata.jp/about",
+    "alt": [
+      {
+        "type": "fallback_license",
+        "key": "CC-BY-4.0",
+        "notice": {
+          "holder": "天童市",
+          "template_not_modified": "{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示4.0 国際 （https://creativecommons.org/licenses/by/4.0/deed.ja）",
+          "template": "この著作物は以下の著作物を改変して利用しています。\n{title}、{holder}、クリエイティブ・コモンズ・ライセンス表示4.0 国際 （https://creativecommons.org/licenses/by/4.0/deed.ja）",
+          "need_modified_flag": true,
+          "need_title": true,
+          "need_holder": true
+        }
+      }
+    ]
+  },
+  "-ddsd-terms-data.yafjp.org": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "ヨコハマ・アート・LODについて",
+    "full_url": "https://artnavi.yokohama/lod/",
+    "alt": [
+      {
+        "type": "license",
+        "key": "CC-BY-4.0",
+        "notice": {
+          "title": "ヨコハマ・アート・LOD",
+          "holder": "公益財団法人横浜市芸術文化振興財団",
+          "template": "{title} by {holder}",
+          "need_modified_flag": true
+        }
+      }
+    ]
+  },
+  
+  "-ddsd-cc-by-sa": {
+    "is_free": "free",
+    "notice": {
+      "need_holder": true,
+      "need_url": true,
+      "need_title": true,
+      "need_modified_flag": true
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "Creative Commons Attribution Share-Alike",
+    "desc_url": "https://opendefinition.org/licenses/cc-by-sa/",
+    "possible": []
+  },
+
+  "Apache-2.0": {
+    "is_free": "free",
+    "notice": {
+      "need_modified_flag": true
+    },
+    "label": "Apache License\nVersion 2.0, January 2004",
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "full_url": "https://www.apache.org/licenses/LICENSE-2.0"
+  },
+
+  "ODC-By-1.0": {
+    "is_free": "free"
+  },
+
+  "-ddsd-gfdl": {
+    "is_free": "sometimes"
+  },
+
+  "-ddsd-terms-pf-sapporo.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "札幌市ＩＣＴ活用プラットフォーム利用規約 (平成30年1月31日)",
+    "full_url": "https://data.pf-sapporo.jp/tos/",
+    "is_free": "neutral"
+  },
+  "-ddsd-terms-opendata-api-kakogawa.jp": {
+    "is_free": "neutral",
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "加古川市オープンデータカタログサイト利用規約 (令和元年6月3日に適用)",
+    "full_url": "https://opendata-api-kakogawa.jp/odp/tos/",
+    "notice": {
+      "template": "このサービスは、「加古川市オープンデータカタログサイト」のAPI機能を使用していますが、サービスの内容は加古川市によって保証されたものではありません。"
+    }
+  },
+  
+  "CC-BY-NC-ND-4.0": {
+    "notice": {
+      "need_holder": true,
+      "need_url": true
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International",
+    "full_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "is_free": "non-free"
+  },
+  "CC-BY-ND-4.0": {
+    "notice": {
+      "need_holder": true,
+      "need_url": true
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "Creative Commons Attribution-NoDerivs 4.0 International",
+    "full_url": "https://creativecommons.org/licenses/by-nd/4.0/",
+    "is_free": "non-free"
+  },
+  "-ddsd-cc-by-nd": {
+    "notice": {
+      "need_holder": true,
+      "need_url": true
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "Creative Commons Attribution-NoDerivs",
+    "is_free": "non-free",
+    "possible": ["CC-BY-ND-4.0"]
+  },
+
+  "-ddsd-jp-sokuryouhou": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "日本国昭和二十四年法律第百八十八号『測量法』 (測量成果関係)",
+    "full_url": "https://elaws.e-gov.go.jp/document?lawid=324AC0000000188",
+    "is_free": "non-free"
+  },
+
+  "-ddsd-non-free": {
+    "is_free": "non-free",
+    "notice": {
+      "need_holder": true,
+      "need_title": true,
+      "need_url": true
+    }
+  },
+
+  "-ddsd-insecure": {
+    "is_free": "neutral",
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "notice": {
+      "template": "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。"
+    }
+  },
+  "-ddsd-disclaimer": {
+    "is_free": "neutral",
+
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "notice": {
+      "template": "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。"
+    }
+  },
+
+  "-ddsd-ckan-package": {
+    "is_free": "unknown"
+  },
+  
+  "-ddsd-unknown": {
+    "is_free": "unknown"
+  }
+}

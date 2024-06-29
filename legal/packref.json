@@ -1,0 +1,19 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:ckan.json": {
+        "url": "ckan.json"
+      },
+      "file:r:websites.json": {
+        "url": "websites.json"
+      },
+      "file:r:info.json": {
+        "url": "info.json"
+      }
+    }
+  },
+  "content_license": "CC0-1.0",
+  "packref_license": "CC0-1.0"
+}

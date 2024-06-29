@@ -1,0 +1,123 @@
+[
+  {
+    "terms_url": "https://odcs.bodik.jp/260002/tos/",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/boodik-260002.json"
+    },
+    "legal_key": "-ddsd-terms-odcs.bodik.jp-260002"
+  },
+  {
+    "terms_url": "https://odcs.bodik.jp/452017/tos/",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/boodik-452017.json"
+    },
+    "legal_key": "-ddsd-terms-odcs.bodik.jp-452017"
+  },
+  {
+    "terms_url": "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/himeji.json"
+    },
+    "legal_key": "-ddsd-terms-city.himeji.gkan.jp"
+  },
+  {
+    "terms_url": "https://www.gsj.jp/license/license.html",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/gsj.json"
+    },
+    "legal_key": "-ddsd-terms-www.gsj.jp"
+  },
+  {
+    "url_prefix": "https://ckan.pf-sapporo.jp/",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/pf-sapporo.json"
+    },
+    "legal_key": "-ddsd-terms-pf-sapporo.jp"
+  },
+  {
+    "terms_url": "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kanazawa.json"
+    },
+    "legal_key": "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp"
+  },
+  {
+    "terms_url": "https://data.city.ikoma.lg.jp/policy",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/ikoma.json"
+    },
+    "legal_key": "-ddsd-terms-data.city.ikoma.lg.jp"
+  },
+  {
+    "terms_url": "https://opendata.pref.kanagawa.jp/terms",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kanagawa.json"
+    },
+    "legal_key": "-ddsd-terms-opendata.pref.kanagawa.jp"
+  },
+  {
+    "terms_url": "http://www.city.sagamihara.kanagawa.jp/shisei/opendata/index.html",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/sagamihara.json"
+    },
+    "legal_key": "-ddsd-terms-opendata.city.sagamihara.kanagawa.jp"
+  },
+  {
+    "terms_url": "https://opendata.pref.akita.lg.jp/term",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/akita.json"
+    },
+    "legal_key": "-ddsd-terms-opendata.pref.akita.lg.jp"
+  },
+  {
+    "terms_url": "https://data.city.yokohama.lg.jp/terms.html",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/yokohama.json"
+    },
+    "legal_key": "-ddsd-terms-data.city.yokohama.lg.jp"
+  },
+  {
+    "terms_url": "https://opendata-api-kakogawa.jp/odp/tos/",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kakogawa.json"
+    },
+    "legal_key": "-ddsd-terms-opendata-api-kakogawa.jp"
+  },
+  {
+    "terms_url": "https://data.city.tendo.yamagata.jp/about",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/tendo.json"
+    },
+    "legal_key": "-ddsd-terms-data.city.tendo.yamagata.jp"
+  },
+  {
+    "terms_url": "https://artnavi.yokohama/lod/",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/yokohamaart.json"
+    },
+    "legal_key": "-ddsd-terms-data.yafjp.org"
+  },
+  
+  {
+    "url_prefix": "http://opendata.town.aichi-higashiura.lg.jp/",
+    "source": {
+      "type": "packref",
+      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/hu.json"
+    },
+    "legal_key": "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp"
+  }
+]

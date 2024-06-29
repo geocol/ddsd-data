@@ -1,0 +1,13 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "# file:r:hoge.jsonl": {
+        "url": "hoge.jsonl"
+      }
+    }
+  },
+  "content_license": "CC0-1.0",
+  "packref_license": "CC0-1.0"
+}

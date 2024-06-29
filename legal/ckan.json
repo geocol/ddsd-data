@@ -1,0 +1,233 @@
+[
+  {
+    "id": "cc-zero",
+    "title": "クリエイティブ・コモンズ CC0",
+    "url": "http://www.opendefinition.org/licenses/cc-zero",
+    "is": "CC0-1.0"
+  },
+  {
+    "id": "cc-zero",
+    "title": "Creative Commons CCZero",
+    "url": "http://www.opendefinition.org/licenses/cc-zero",
+    "is": "CC0-1.0"
+  },
+
+  {
+    "id": "CC BY",
+    "title": "CC BY",
+    "is": "-ddsd-cc-by"
+  },
+  {
+    "id": "cc-by",
+    "title": "Creative Commons Attribution",
+    "url": "http://www.opendefinition.org/licenses/cc-by",
+    "is": "-ddsd-cc-by"
+  },
+  {
+    "url": "http://www.opendefinition.org/licenses/cc-by",
+    "title": "クリエイティブ・コモンズ 表示",
+    "id": "cc-by",
+    "is": "-ddsd-cc-by"
+  },
+  {
+    "url": "http://www.opendefinition.org/licenses/cc-by",
+    "title": "クリエイティブ・コモンズ 表示",
+    "id": "CC-BY",
+    "is": "-ddsd-cc-by"
+  },
+
+  {
+    "id": "cc-by-21",
+    "title": "cc-by-21",
+    "is": "-ddsd-cc-by-2.1"
+  },
+  {
+    "id": "cc-by-21-jp",
+    "title": "Creative Commons Attribution 2.1 JP",
+    "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+    "is": "-ddsd-cc-by-2.1-jp"
+  },
+  
+  {
+    "id": "cc-by-40-intl",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "is": "CC-BY-4.0"
+  },
+  {
+    "id": "cc-by",
+    "title": "Creative Commons Attribution",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "is": "CC-BY-4.0"
+  },
+  {
+    "id": "cc-by",
+    "title": "クリエイティブ・コモンズ-表示(CC-BY)",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "is": "CC-BY-4.0"
+  },
+  {
+    "id": "CC-BY-4.0",
+    "title": "Creative Commons Attribution 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "is": "CC-BY-4.0"
+  },
+  {
+    "id": "cc-by-40-intl",
+    "title": "クリエイティブ・コモンズ 表示 4.0 国際",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "is": "CC-BY-4.0"
+  },
+  {
+    "id": "CC-BY-4.0",
+    "title": "クリエイティブ・コモンズ・ライセンス 表示 4.0 国際 (CC BY 4.0)",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "is": "CC-BY-4.0"
+  },
+  {
+    "id": "CC-BY-4.0",
+    "title": "クリエイティブ・コモンズ 表示 4.0 国際",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "is": "CC-BY-4.0"
+  },
+  {
+    "id": "CC-BY-4.0",
+    "title": "表示 4.0 国際 (CC BY 4.0)",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "is": "CC-BY-4.0"
+  },
+  {
+    "id": "CC-BY-4.0",
+    "title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "is": "CC-BY-4.0"
+  },
+  {
+    "id": "cc-by-40-intl",
+    "title": "cc-by-40-intl",
+    "is": "CC-BY-4.0"
+  },
+  {
+    "id": "Truecc-by-40-intl",
+    "title": "Truecc-by-40-intl",
+    "is": "CC-BY-4.0"
+  },
+
+  {
+    "id": "cc-by-sa",
+    "title": "Creative Commons Attribution Share-Alike",
+    "url": "http://www.opendefinition.org/licenses/cc-by-sa",
+    "is": "-ddsd-cc-by-sa"
+  },
+
+  {
+    "id": "japanese",
+    "title": "Japanese Government License",
+    "is": "-ddsd-jpgov-standard"
+  },
+  {
+    "id": "standard-terms-2.0",
+    "title": "政府標準利用規約 (第2.0版)",
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/f7fde41d-ffca-4b2a-9b25-94b8a701a037/70143e67/20220523_resources_data_betten_03.pdf",
+    "is": "-ddsd-jpgov-standard-2.0"
+  },
+  {
+    "id": "plateau",
+    "title": "PLATEAU Site Policy 「３．著作権について」に拠る",
+    "agreement": "Project PLATEAUのサイトポリシーに従って、どなたでも 、複製、公衆送信、翻訳・変形等の翻案等、自由に利用できます。商用利用も可能です。（https://www.mlit.go.jp/plateau/site-policy/）\u0009",
+    "is": "-ddsd-plateau"
+  },
+
+  {
+    "id": "Apache-2.0",
+    "title": "Apache License, Version 2.0",
+    "url": "https://www.apache.org/licenses/LICENSE-2.0",
+    "is": "Apache-2.0"
+  },
+
+  {
+    "id": "odc-by",
+    "title": "Open Data Commons Attribution License",
+    "url": "http://www.opendefinition.org/licenses/odc-by",
+    "is": "ODC-By-1.0",
+    "db": true
+  },
+
+  {
+    "is": "gfdl",
+    "title": "GNU Free Documentation License",
+    "url": "http://www.opendefinition.org/licenses/gfdl",
+    "is": "-ddsd-gfdl"
+  },
+
+  {
+    "id": "CC-BY-NC-ND-4.0",
+    "title": "クリエイティブ・コモンズ 表示-非営利-改変禁止（CC BY-NC-ND）",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja",
+    "is": "CC-BY-NC-ND-4.0"
+  },
+  {
+    "id": "CC-BY-NC-ND-4.0",
+    "title": "表示 - 非営利 - 改変禁止 4.0 国際 (CC BY-NC-ND 4.0)",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja",
+    "is": "CC-BY-NC-ND-4.0"
+  },
+  {
+    "id": "CC-BY-ND-4.0",
+    "title": "クリエイティブ・コモンズ 表示-改変禁止 4.0 国際",
+    "url": "https://creativecommons.org/licenses/by-nd/4.0/deed.ja",
+    "is": "CC-BY-ND-4.0"
+  },
+  {
+    "id": "CC-BY-ND-4.0",
+    "title": "表示 - 改変禁止 4.0 国際 (CC BY-ND 4.0)",
+    "url": "https://creativecommons.org/licenses/by-nd/4.0/deed.ja",
+    "is": "CC-BY-ND-4.0"
+  },
+  {
+    "id": "other-copyright",
+    "extras_copyright": "CC-BY-ND",
+    "is": "-ddsd-cc-by-nd"
+  },
+  {
+    "id": "other-copyright",
+    "tag": "CC BY-ND",
+    "is": "-ddsd-cc-by-nd"
+  },
+
+  {
+    "id": "other-copyright",
+    "is": "-ddsd-non-free"
+  },
+  {
+    "id": "other-at",
+    "title": "Other (Attribution)",
+    "is": "-ddsd-non-free"
+  },
+  {
+    "id": "other-closed",
+    "title": "Other (Not Open)",
+    "is": "-ddsd-non-free"
+  },
+  {
+    "id": "other-nc",
+    "title": "Other (Non-Commercial)",
+    "is": "-ddsd-non-free"
+  },
+  {
+    "id": "notspecified",
+    "title": "License not specified",
+    "is": "-ddsd-unknown"
+  },
+  {
+    "id": "",
+    "title": "",
+    "is": "-ddsd-unknown"
+  },
+  {
+    "id": "notspecified",
+    "title": "ライセンスが指定されていません",
+    "agreement": "",
+    "is": "-ddsd-unknown"
+  }
+]
