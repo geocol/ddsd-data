@@ -19,6 +19,9 @@
                }
             },
             {
+               "env" : {
+                  "DDSDRUN_DOCKER_IMAGE" : "${{ secrets.DDSDRUN_DOCKER_IMAGE }}"
+               },
                "run" : "make build-github-pages"
             },
             {

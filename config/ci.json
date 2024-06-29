@@ -1,5 +1,7 @@
 {
   "github": {
-    "pages": true
+    "pages": {
+      "build_secrets": ["DDSDRUN_DOCKER_IMAGE"]
+    }
   }
 }
