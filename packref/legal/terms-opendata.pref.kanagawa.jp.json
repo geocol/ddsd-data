@@ -10,7 +10,7 @@
         "name" : "terms_of_service_202402.pdf",
         "url": "https://opendata.pref.kanagawa.jp/wp-content/uploads/2024/02/terms_of_service_202402.pdf",
         "sha256" : "3e499cced5db09150fa920a18a951c7018e9533688eb75cd2cb525f6633d223a"
-      },
+      }
     },
     "type" : "packref",
     "url" : "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kanagawa.json"
