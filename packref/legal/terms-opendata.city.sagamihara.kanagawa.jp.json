@@ -4,7 +4,7 @@
     "type": "files",
     "files": {
       "file:r:page": {
-        "url": "http://www.city.sagamihara.kanagawa.jp/shisei/opendata/index.html",
+        "url": "https://www.city.sagamihara.kanagawa.jp/shisei/1026896/opendata/index.html",
         "sha256": "a8b11d4b576a6a956ad881bcfa2a739948e44f6d41119d73b0e038f5afcec4af"
       },
       "file:r:pdf": {
