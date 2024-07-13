@@ -1,0 +1,13 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:pdf": {
+        "url": "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf"
+      }
+    },
+    "skip_other_files": true
+  },
+  "is_legal": true
+}

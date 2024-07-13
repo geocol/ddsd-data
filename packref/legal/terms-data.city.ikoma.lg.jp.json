@@ -1,0 +1,16 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "https://data.city.ikoma.lg.jp/policy/"
+      },
+      "file:r:pdf": {
+        "url": "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf"
+      }
+    },
+    "skip_other_files": true
+  },
+  "is_legal": true
+}

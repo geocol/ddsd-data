@@ -1,0 +1,16 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "https://portal-data.city.kanazawa.ishikawa.jp/"
+      },
+      "file:r:pdf": {
+        "url": "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf"
+      }
+    },
+    "skip_other_files": true
+  },
+  "is_legal": true
+}

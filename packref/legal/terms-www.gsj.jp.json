@@ -1,0 +1,16 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "https://www.gsj.jp/license/license.html"
+      },
+      "file:r:pubs": {
+        "url": "https://www.gsj.jp/license/docs/gsj_pubs_lcs.pdf"
+      }
+    },
+    "skip_other_files": true
+  },
+  "is_legal": true
+}

@@ -1,0 +1,13 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "https://data.city.yokohama.lg.jp/terms.html"
+      }
+    },
+    "skip_other_files": true
+  },
+  "is_legal": true
+}
