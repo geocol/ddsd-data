@@ -4,13 +4,23 @@
     "type": "files",
     "files": {
       "file:r:page": {
-        "url": "https://www.gsj.jp/license/license.html"
+        "url": "https://www.gsj.jp/license/license.html",
+        "sha256": "3192e263ba6cc70e01bb284fc90d1cadccc2807603813ab083f88f2ef69b051a"
       },
       "file:r:pubs": {
-        "url": "https://www.gsj.jp/license/docs/gsj_pubs_lcs.pdf"
+        "url": "https://www.gsj.jp/license/docs/gsj_pubs_lcs.pdf",
+        "sha256": "c1976464239992de5d09876eb6044160b2e568b4002acbc4abc6f64bdeb266cf"
       }
     },
     "skip_other_files": true
+  },
+  "terms_url": "https://www.gsj.jp/license/license.html",
+  "packref_license": "CC0-1.0",
+  "meta": {
+    "lang": "ja",
+    "title": "産総研地質調査総合センターの研究成果情報の利用について",
+    "author": "産総研地質調査総合センター",
+    "page_url": "https://www.gsj.jp/license/license.html"
   },
   "is_legal": true
 }

@@ -27,7 +27,7 @@
     "terms_url": "https://www.gsj.jp/license/license.html",
     "source": {
       "type": "packref",
-      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/gsj.json"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-www.gsj.jp.json"
     },
     "legal_key": "-ddsd-terms-www.gsj.jp"
   },
