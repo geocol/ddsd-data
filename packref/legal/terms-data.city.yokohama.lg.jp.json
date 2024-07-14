@@ -4,10 +4,19 @@
     "type": "files",
     "files": {
       "file:r:page": {
-        "url": "https://data.city.yokohama.lg.jp/terms.html"
+        "url": "https://data.city.yokohama.lg.jp/terms.html",
+        "sha256": "72c72edd64e251ac7ff7447ae8f59b2201d3e134253ba9ac11d8ab9c5ea53ba3"
       }
     },
     "skip_other_files": true
+  },
+  "terms_url": "https://data.city.yokohama.lg.jp/terms.html",
+  "packref_license": "CC0-1.0",
+  "meta": {
+    "lang": "ja",
+    "title": "横浜市オープンデータポータルサイト利用規約",
+    "author": "横浜市",
+    "page_url": "https://data.city.yokohama.lg.jp/terms.html"
   },
   "is_legal": true
 }

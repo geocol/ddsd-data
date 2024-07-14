@@ -83,7 +83,7 @@
     "terms_url": "https://data.city.yokohama.lg.jp/terms.html",
     "source": {
       "type": "packref",
-      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/yokohama.json"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.city.yokohama.lg.jp.json"
     },
     "legal_key": "-ddsd-terms-data.city.yokohama.lg.jp"
   },
