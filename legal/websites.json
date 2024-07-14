@@ -19,7 +19,7 @@
     "terms_url": "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
     "source": {
       "type": "packref",
-      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/himeji.json"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-city.himeji.gkan.jp.json"
     },
     "legal_key": "-ddsd-terms-city.himeji.gkan.jp"
   },
@@ -51,7 +51,7 @@
     "terms_url": "https://data.city.ikoma.lg.jp/policy",
     "source": {
       "type": "packref",
-      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/ikoma.json"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.city.ikoma.lg.jp.json"
     },
     "legal_key": "-ddsd-terms-data.city.ikoma.lg.jp"
   },

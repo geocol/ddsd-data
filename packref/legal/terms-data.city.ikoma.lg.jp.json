@@ -4,13 +4,23 @@
     "type": "files",
     "files": {
       "file:r:page": {
-        "url": "https://data.city.ikoma.lg.jp/policy/"
+        "url": "https://data.city.ikoma.lg.jp/policy/",
+        "sha256": "bf541e6f03bffcdaa3bb8cb0cbb3b9205db930272a490cc1e973d7e19e5c3a1b"
       },
       "file:r:pdf": {
-        "url": "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf"
+        "url": "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+        "sha256": "7a16ff77aad13588090e8b85631d181a0d4f2aa32d15d5aaefcb1df74d92fef3"
       }
     },
     "skip_other_files": true
+  },
+  "terms_url": "https://data.city.ikoma.lg.jp/policy/",
+  "packref_license": "CC0-1.0",
+  "meta": {
+    "lang": "ja",
+    "title": "ご利用について",
+    "author": "生駒市",
+    "page_url": "https://data.city.ikoma.lg.jp/policy/"
   },
   "is_legal": true
 }
