@@ -4,10 +4,19 @@
     "type": "files",
     "files": {
       "file:r:pdf": {
-        "url": "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf"
+        "url": "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+        "sha256": "7c61e4389d6a607a690f86bee01f4b4fa4e6e696edbfa2a2d87db05f1aa870b4"
       }
     },
     "skip_other_files": true
   },
+  "meta": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "title": "姫路市オープンデータ利⽤規約, 高砂市オープンデータ利用規約",
+    "page_url": "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+    "author": "姫路市, 高砂市"
+  },
+  "terms_url": "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+  "packref_license": "CC0-1.0",
   "is_legal": true
 }
