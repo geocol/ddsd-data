@@ -1,0 +1,22 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "https://www.jma.go.jp/jma/kishou/info/coment.html",
+        "XXX sha256": "3192e263ba6cc70e01bb284fc90d1cadccc2807603813ab083f88f2ef69b051a"
+      }
+    },
+    "skip_other_files": true
+  },
+  "terms_url": "https://www.jma.go.jp/jma/kishou/info/coment.html",
+  "packref_license": "CC0-1.0",
+  "meta": {
+    "lang": "ja",
+    "title": "気象庁ホームページについて",
+    "author": "気象庁",
+    "page_url": "https://www.jma.go.jp/jma/kishou/info/coment.html"
+  },
+  "is_legal": true
+}
