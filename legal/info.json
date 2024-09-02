@@ -152,6 +152,27 @@
       }
     ]
   },
+  "-ddsd-terms-www.jma.go.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "気象庁ホームページについて",
+    "full_url": "https://www.jma.go.jp/jma/kishou/info/coment.html",
+    "notice": {
+      "template_not_modified": "{holder}「{title}」（{url}）",
+      "template": "{holder}「{title}」（{url}）を加工して作成",
+      "need_holder": true,
+      "need_title": true,
+      "need_url": true,
+      "need_modified_flag": true
+    },
+    "jpgov-standard": "2.0",
+
+    "alt": [
+      {
+        "type": "license",
+        "key": "CC-BY-4.0"
+      }
+    ]
+  },
   
   "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp": {
     "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
