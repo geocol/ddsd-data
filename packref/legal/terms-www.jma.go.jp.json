@@ -5,7 +5,7 @@
     "files": {
       "file:r:page": {
         "url": "https://www.jma.go.jp/jma/kishou/info/coment.html",
-        "XXX sha256": "3192e263ba6cc70e01bb284fc90d1cadccc2807603813ab083f88f2ef69b051a"
+        "sha256": "60c399e1a0200bd38b55851b76abb154110a137a1a398a43133b42d65457ceae"
       }
     },
     "skip_other_files": true
