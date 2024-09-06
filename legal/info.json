@@ -9,7 +9,7 @@
       "CC0-1.0",
       "CC-BY-1.0", "CC-BY-2.0", "CC-BY-3.0", "CC-BY-4.0",
       "-ddsd-cc-by-2.1", "-ddsd-cc-by-2.1-jp",
-      "-ddsd-cc-by-sa"
+      "-ddsd-cc-by-sa", "CC-BY-SA-2.1-JP"
     ]
   },
   
@@ -481,7 +481,21 @@
     "writing_mode": "horizontal-tb",
     "label": "Creative Commons Attribution Share-Alike",
     "desc_url": "https://opendefinition.org/licenses/cc-by-sa/",
-    "possible": []
+    "possible": ["CC-BY-SA-2.1-JP"]
+  },
+  "CC-BY-SA-2.1-JP": {
+    "is_free": "free",
+    "notice": {
+      "need_holder": true,
+      "need_url": true,
+      "need_title": true,
+      "need_modified_flag": true
+    },
+    "lang": "ja",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "クリエイティブ・コモンズ 表示 - 継承 2.1 日本",
+    "full_url": "https://creativecommons.org/licenses/by-sa/2.1/jp/"
   },
 
   "Apache-2.0": {

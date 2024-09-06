@@ -47,6 +47,12 @@
     "url": "https://creativecommons.org/licenses/by/2.1/jp/",
     "is": "-ddsd-cc-by-2.1-jp"
   },
+  {
+    "id": "CC-BY-2.1",
+    "title": "クリエイティブ・コモンズ・ライセンス 表示 2.1 日本 (CC BY 2.1)",
+    "url": "https://creativecommons.org/licenses/by/2.1/jp/",
+    "is": "-ddsd-cc-by-2.1-jp"
+  },
   
   {
     "id": "cc-by-40-intl",
@@ -118,6 +124,12 @@
     "title": "Creative Commons Attribution Share-Alike",
     "url": "http://www.opendefinition.org/licenses/cc-by-sa",
     "is": "-ddsd-cc-by-sa"
+  },
+  {
+    "id": "CC-BY-SA-2.1",
+    "title": "クリエイティブ・コモンズ・ライセンス 表示 - 継承 2.1 日本 (CC BY-SA 2.1)",
+    "url": "https://creativecommons.org/licenses/by-sa/2.1/jp/",
+    "is": "CC-BY-SA-2.1-JP"
   },
 
   {
