@@ -40,6 +40,14 @@
     "legal_key": "-ddsd-terms-www.jma.go.jp"
   },
   {
+    "terms_url": "https://catalog.registries.digital.go.jp/rc/terms",
+    "source": {
+      "type": "packref",
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-catalog.registries.digital.go.jp.json"
+    },
+    "legal_key": "-ddsd-terms-catalog.registries.digital.go.jp"
+  },
+  {
     "url_prefix": "https://ckan.pf-sapporo.jp/",
     "source": {
       "type": "packref",

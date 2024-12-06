@@ -1,0 +1,22 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "https://catalog.registries.digital.go.jp/rc/terms",
+        "#XXX sha256": ""
+      }
+    },
+    "skip_other_files": true
+  },
+  "terms_url": "https://catalog.registries.digital.go.jp/rc/terms",
+  "packref_license": "CC0-1.0",
+  "meta": {
+    "lang": "ja",
+    "title": "利用規約 - レジストリカタログ",
+    "author": "デジタル庁",
+    "page_url": "https://catalog.registries.digital.go.jp/rc/terms"
+  },
+  "is_legal": true
+}

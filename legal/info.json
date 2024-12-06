@@ -173,6 +173,28 @@
       }
     ]
   },
+  "-ddsd-terms-catalog.registries.digital.go.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "利用規約 - レジストリカタログ",
+    "full_url": "https://catalog.registries.digital.go.jp/rc/terms",
+    "notice": {
+      "template_not_modified": "レジストリカタログ（{url}）",
+      "template": "「{title}」（{holder}）（{url}）を加工して作成",
+      "need_holder": true,
+      "holder": "デジタル庁",
+      "need_title": true,
+      "need_url": true,
+      "need_modified_flag": true
+    },
+    "jpgov-standard": "2.0",
+
+    "alt": [
+      {
+        "type": "license",
+        "key": "CC-BY-4.0"
+      }
+    ]
+  },
   
   "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp": {
     "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
