@@ -73,6 +73,12 @@
     "is": "CC-BY-4.0"
   },
   {
+    "id" : "cc-by",
+    "title" : "クリエイティブ・コモンズ 表示",
+    "url" : "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "is": "CC-BY-4.0"
+  },
+  {
     "id": "CC-BY-4.0",
     "title": "Creative Commons Attribution 4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
