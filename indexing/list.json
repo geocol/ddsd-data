@@ -28,6 +28,7 @@
       "tags": ["デジタル庁"]
     }],
     ["https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/fragments/packref.json", "packref", "fragments", {
+      "base_url": "https://raw.githubusercontent.com/geocol/ddsd-snapshots/refs/heads/master/data/fragments/list.json",
       "tags": ["ddsd fragment packrefs"]
     }],
     ["https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/packref.json", "packref", "legal", {
