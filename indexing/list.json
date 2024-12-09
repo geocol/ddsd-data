@@ -27,7 +27,12 @@
     ["https://catalog.registries.digital.go.jp/rc/dataset", "ckan", "catalog.registries.digital.go.jp", {
       "tags": ["デジタル庁"]
     }],
-    ["https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/packref.json", "packref", "legal", {}]
+    ["https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/fragments/packref.json", "packref", "fragments", {
+      "tags": ["ddsd fragment packrefs"]
+    }],
+    ["https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/packref.json", "packref", "legal", {
+      "tags": ["ddsd legal packrefs"]
+    }]
   ],
   "#": [
     ["https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/sparql/packref.json", "packref", "sparql", {}]
