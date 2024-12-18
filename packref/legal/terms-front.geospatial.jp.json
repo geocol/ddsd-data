@@ -1,0 +1,22 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "https://front.geospatial.jp/about/",
+        "#XXX sha256": "3192e263ba6cc70e01bb284fc90d1cadccc2807603813ab083f88f2ef69b051a"
+      }
+    },
+    "skip_other_files": true
+  },
+  "terms_url": "https://front.geospatial.jp/about/",
+  "packref_license": "CC0-1.0",
+  "meta": {
+    "lang": "ja",
+    "title": "G空間情報センター 利用約款 (最終更新日　2019年10月1日)",
+    "author": "一般社団法人社会基盤情報流通推進協議会",
+    "page_url": "https://front.geospatial.jp/about/"
+  },
+  "is_legal": true
+}

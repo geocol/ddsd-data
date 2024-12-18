@@ -1,0 +1,15 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "ckan",
+    "files": {
+      "file:id:47871bf1-4c85-48f7-a8fe-b27c6643c1c5" : {
+        "name" : "license.pdf",
+        "sha256" : "275914c735b19cc7a274a13aac22e0c08378269d9d80f26f6b285aca32367b99"
+      }
+    },
+    "url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku"
+  },
+  "packref_license": "CC0-1.0",
+  "is_legal": true
+}
