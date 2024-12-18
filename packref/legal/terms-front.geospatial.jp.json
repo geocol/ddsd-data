@@ -5,7 +5,7 @@
     "files": {
       "file:r:page": {
         "url": "https://front.geospatial.jp/about/",
-        "#XXX sha256": "3192e263ba6cc70e01bb284fc90d1cadccc2807603813ab083f88f2ef69b051a"
+        "sha256": "7d9945040734e73e602eb8f068d2a45310268911d58480ee9dc21ef7d610b189"
       }
     },
     "skip_other_files": true

@@ -5,7 +5,7 @@
     "files": {
       "file:r:page": {
         "url": "https://www.digital.go.jp/copyright-policy",
-        "# XXX sha256": "a9d0dfd47f32f3146294d997dae3defb12b4fe717ca335107a350c31148595f7"
+        "sha256": "737d2c1414d6b55a59b74f7a4e0cd4dc448149566afa2dae09bf7d1968c9f552"
       }
     },
     "skip_other_files": true

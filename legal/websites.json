@@ -40,6 +40,14 @@
     "legal_key": "-ddsd-terms-www.jma.go.jp"
   },
   {
+    "terms_url": "https://www.digital.go.jp/rc/terms",
+    "source": {
+      "type": "packref",
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-www.digital.go.jp.json"
+    },
+    "legal_key": "-ddsd-terms-www.digital.go.jp"
+  },
+  {
     "terms_url": "https://catalog.registries.digital.go.jp/rc/terms",
     "source": {
       "type": "packref",
@@ -48,10 +56,26 @@
     "legal_key": "-ddsd-terms-catalog.registries.digital.go.jp"
   },
   {
+    "terms_url": "https://www.digital.go.jp/policies/base_registry_address_tos",
+    "source": {
+      "type": "packref",
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/base_registry_address_tos.json"
+    },
+    "legal_key": "-ddsd-base_registry_address_tos"
+  },
+  {
+    "terms_url": "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+    "source": {
+      "type": "packref",
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/houmusyouchizu-riyoukiyaku.json"
+    },
+    "legal_key": "-ddsd-houmusyouchizu-riyoukiyaku"
+  },
+  {
     "url_prefix": "https://ckan.pf-sapporo.jp/",
     "source": {
       "type": "packref",
-      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/pf-sapporo.json"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.pf-sapporo.jp.json"
     },
     "legal_key": "-ddsd-terms-pf-sapporo.jp"
   },
@@ -83,7 +107,7 @@
     "terms_url": "http://www.city.sagamihara.kanagawa.jp/shisei/opendata/index.html",
     "source": {
       "type": "packref",
-      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/sagamihara.json"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.city.sagamihara.kanagawa.jp.json"
     },
     "legal_key": "-ddsd-terms-opendata.city.sagamihara.kanagawa.jp"
   },
@@ -91,7 +115,7 @@
     "terms_url": "https://opendata.pref.akita.lg.jp/term",
     "source": {
       "type": "packref",
-      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/akita.json"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.pref.akita.lg.jp.json"
     },
     "legal_key": "-ddsd-terms-opendata.pref.akita.lg.jp"
   },
@@ -107,7 +131,7 @@
     "terms_url": "https://opendata-api-kakogawa.jp/odp/tos/",
     "source": {
       "type": "packref",
-      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/kakogawa.json"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata-api-kakogawa.jp.json"
     },
     "legal_key": "-ddsd-terms-opendata-api-kakogawa.jp"
   },
@@ -115,7 +139,7 @@
     "terms_url": "https://data.city.tendo.yamagata.jp/about",
     "source": {
       "type": "packref",
-      "url": "https://gist.githubusercontent.com/wakaba/30f9cce1283f1eceb34a495c78d2b431/raw/tendo.json"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.city.tendo.yamagata.jp.json"
     },
     "legal_key": "-ddsd-terms-data.city.tendo.yamagata.jp"
   },
@@ -136,5 +160,23 @@
       "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-opendata.town.aichi-higashiura.lg.jp.json"
     },
     "legal_key": "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp"
+  },
+
+  {
+    "url_prefix": "https://www.geospatial.jp/",
+    "source": {
+      "type": "packref",
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-front.geospatial.jp.json"
+    },
+    "legal_key": "-ddsd-terms-front.geospatial.jp"
+  },
+  {
+    "url_prefix": "https://front.geospatial.jp/",
+    "source": {
+      "type": "packref",
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-front.geospatial.jp.json"
+    },
+    "legal_key": "-ddsd-terms-front.geospatial.jp"
   }
+
 ]

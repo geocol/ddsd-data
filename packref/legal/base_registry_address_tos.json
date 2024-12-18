@@ -5,7 +5,7 @@
     "files": {
       "file:r:page": {
         "url": "https://www.digital.go.jp/policies/base_registry_address_tos",
-        "# XXX sha256": "a9d0dfd47f32f3146294d997dae3defb12b4fe717ca335107a350c31148595f7"
+        "sha256": "ee0bdae4a6541e9104f5cedd95e2b99e8e72f53b301b44ef7329acef79efde0a"
       }
     },
     "skip_other_files": true

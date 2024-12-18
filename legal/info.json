@@ -127,6 +127,27 @@
     "full_url": "https://cio.go.jp/sites/default/files/uploads/documents/opendata_nijiriyou_betten1.pdf",
     "is_free": "free"
   },
+  "-ddsd-pdl1.0": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "公共データ利用規約（第1.0版）",
+    "full_url": "https://www.digital.go.jp/resources/open_data/public_data_license_v1.0",
+    "notice": {
+      "template_not_modified": "出典：「{title}」（{holder}）（{url}）、PDL1.0（https://www.digital.go.jp/resources/open_data/public_data_license_v1.0）（{date}に利用）",
+      "template": "「{title}」（{holder}）（{url}）を加工して作成",
+      "need_holder": true,
+      "need_title": true,
+      "need_url": true,
+      "need_modified_flag": true
+    },
+    "is_free": "free",
+
+    "alt": [
+      {
+        "type": "license",
+        "key": "CC-BY-4.0"
+      }
+    ]
+  },
   "-ddsd-plateau": {
     "is_free": "free"
   },
@@ -173,6 +194,27 @@
       }
     ]
   },
+  "-ddsd-terms-www.digital.go.jp": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "コピーライトポリシー",
+    "full_url": "https://www.digital.go.jp/copyright-policy",
+    "notice": {
+      "template_not_modified": "出典：「{title}」（{holder}）（{url}）",
+      "template": "「{title}」（{holder}）（{url}）を加工して作成",
+      "need_holder": true,
+      "holder": "デジタル庁",
+      "need_title": true,
+      "need_url": true,
+      "need_modified_flag": true
+    },
+
+    "alt": [
+      {
+        "type": "license",
+        "key": "-ddsd-pdl1.0"
+      }
+    ]
+  },
   "-ddsd-terms-catalog.registries.digital.go.jp": {
     "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
     "label": "利用規約 - レジストリカタログ",
@@ -194,6 +236,43 @@
         "key": "CC-BY-4.0"
       }
     ]
+  },
+  "-ddsd-base_registry_address_tos": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "アドレス・ベース・レジストリコンテンツ利用規約（政府標準利用規約準拠版） （改定 令和6年3月15日）",
+    "full_url": "https://www.digital.go.jp/policies/base_registry_address_tos",
+    "notice": {
+      "template_not_modified": "出典：「アドレス・ベース・レジストリ（{title}）」（{holder}）（{url}）（{date}取得）",
+      "template": "「アドレス・ベース・レジストリ（{title}）」（{holder}）（{url}）を加工して作成",
+      "need_holder": true,
+      "holder": "デジタル庁",
+      "need_title": true,
+      "need_url": true,
+      "need_modified_flag": true
+    },
+    "jpgov-standard": "2.0",
+
+    "alt": [
+      {
+        "type": "license",
+        "key": "CC-BY-4.0"
+      }
+    ]
+  },
+  
+  "-ddsd-houmusyouchizu-riyoukiyaku": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "登記所備付地図データ利用規約 (令和５年１月２３日)",
+    "full_url": "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+    "notice": {
+      "template_not_modified": "出典：「{title}」（{holder}） （{url}） （{date}に利用）",
+      "template": "「{title}」（{holder}） （{url}）を加工して作成",
+      "need_holder": true,
+      "holder": "法務省",
+      "need_title": true,
+      "need_url": true,
+      "need_modified_flag": true
+    }
   },
   
   "-ddsd-terms-opendata.town.aichi-higashiura.lg.jp": {
