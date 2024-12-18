@@ -137,6 +137,12 @@
     "url": "https://creativecommons.org/licenses/by-sa/2.1/jp/",
     "is": "CC-BY-SA-2.1-JP"
   },
+  {
+    "id" : "CC-BY-SA-4.0",
+    "title": "クリエイティブ・コモンズ・ライセンス 表示 - 継承 4.0 国 際 (CC BY-SA 4.0)",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja",
+    "is": "CC-BY-SA-4.0"
+  },
 
   {
     "id": "japanese",
@@ -191,6 +197,22 @@
     "is": "CC-BY-NC-ND-4.0"
   },
   {
+    "id": "other-copyright",
+    "extras_copyright": "CC-BY-ND",
+    "is": "-ddsd-cc-by-nd"
+  },
+  {
+    "id": "other-copyright",
+    "tag": "CC BY-ND",
+    "is": "-ddsd-cc-by-nd"
+  },
+  {
+    "id" : "CC-BY-ND-2.1",
+    "title" : "クリエイティブ・コモンズ・ライセンス 表示 - 改変禁止 2.1 日本 (CC BY-ND 2.1)",
+    "url" : "https://creativecommons.org/licenses/by-nd/2.1/jp/",
+    "is": "-ddsd-cc-by-nd-2.1-jp"
+  },
+  {
     "id": "CC-BY-ND-4.0",
     "title": "クリエイティブ・コモンズ 表示-改変禁止 4.0 国際",
     "url": "https://creativecommons.org/licenses/by-nd/4.0/deed.ja",
@@ -201,16 +223,6 @@
     "title": "表示 - 改変禁止 4.0 国際 (CC BY-ND 4.0)",
     "url": "https://creativecommons.org/licenses/by-nd/4.0/deed.ja",
     "is": "CC-BY-ND-4.0"
-  },
-  {
-    "id": "other-copyright",
-    "extras_copyright": "CC-BY-ND",
-    "is": "-ddsd-cc-by-nd"
-  },
-  {
-    "id": "other-copyright",
-    "tag": "CC BY-ND",
-    "is": "-ddsd-cc-by-nd"
   },
 
   {

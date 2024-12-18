@@ -9,7 +9,7 @@
       "CC0-1.0",
       "CC-BY-1.0", "CC-BY-2.0", "CC-BY-3.0", "CC-BY-4.0",
       "-ddsd-cc-by-2.1", "-ddsd-cc-by-2.1-jp",
-      "-ddsd-cc-by-sa", "CC-BY-SA-2.1-JP"
+      "-ddsd-cc-by-sa", "CC-BY-SA-2.1-JP", "CC-BY-SA-4.0"
     ]
   },
   
@@ -503,7 +503,7 @@
     "writing_mode": "horizontal-tb",
     "label": "Creative Commons Attribution Share-Alike",
     "desc_url": "https://opendefinition.org/licenses/cc-by-sa/",
-    "possible": ["CC-BY-SA-2.1-JP"]
+    "possible": ["CC-BY-SA-2.1-JP", "CC-BY-SA-4.0"]
   },
   "CC-BY-SA-2.1-JP": {
     "is_free": "free",
@@ -517,7 +517,21 @@
     "dir": "ltr",
     "writing_mode": "horizontal-tb",
     "label": "クリエイティブ・コモンズ 表示 - 継承 2.1 日本",
-    "full_url": "https://creativecommons.org/licenses/by-sa/2.1/jp/"
+    "full_url": "https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode.ja"
+  },
+  "CC-BY-SA-4.0": {
+    "is_free": "free",
+    "notice": {
+      "need_holder": true,
+      "need_url": true,
+      "need_title": false,
+      "need_modified_flag": true
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "Creative Commons Attribution-ShareAlike 4.0 International",
+    "full_url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
   },
 
   "Apache-2.0": {
@@ -568,18 +582,6 @@
     "full_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
     "is_free": "non-free"
   },
-  "CC-BY-ND-4.0": {
-    "notice": {
-      "need_holder": true,
-      "need_url": true
-    },
-    "lang": "en",
-    "dir": "ltr",
-    "writing_mode": "horizontal-tb",
-    "label": "Creative Commons Attribution-NoDerivs 4.0 International",
-    "full_url": "https://creativecommons.org/licenses/by-nd/4.0/",
-    "is_free": "non-free"
-  },
   "-ddsd-cc-by-nd": {
     "notice": {
       "need_holder": true,
@@ -590,7 +592,32 @@
     "writing_mode": "horizontal-tb",
     "label": "Creative Commons Attribution-NoDerivs",
     "is_free": "non-free",
-    "possible": ["CC-BY-ND-4.0"]
+    "possible": ["-ddsd-cc-by-nd-2.1-jp", "CC-BY-ND-4.0"]
+  },
+  "-ddsd-cc-by-nd-2.1-jp": {
+    "notice": {
+      "need_title": true,
+      "need_holder": true,
+      "need_url": true
+    },
+    "lang": "ja",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "クリエイティブ・コモンズ アトリビューション—ノーデリブス 2.1（帰属—派生禁止）",
+    "full_url": "https://creativecommons.org/licenses/by-nd/2.1/jp/legalcode.ja",
+    "is_free": "non-free"
+  },
+  "CC-BY-ND-4.0": {
+    "notice": {
+      "need_holder": true,
+      "need_url": true
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "writing_mode": "horizontal-tb",
+    "label": "Creative Commons Attribution-NoDerivs 4.0 International",
+    "full_url": "https://creativecommons.org/licenses/by-nd/4.0/legalcode.en",
+    "is_free": "non-free"
   },
 
   "-ddsd-jp-sokuryouhou": {
