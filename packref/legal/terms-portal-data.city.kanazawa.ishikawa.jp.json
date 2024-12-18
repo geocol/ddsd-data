@@ -5,11 +5,11 @@
     "files": {
       "file:r:page": {
         "url": "https://portal-data.city.kanazawa.ishikawa.jp/",
-        "sha256": "f590bbf1be246c1180bb097074935b32b8ccfb0e58b3cc89eaa294fef1de858d"
+        "sha256": "8858082155a71cc5c471362b0527f57c280f1be7993b43f21b8160ee8aa1cc87"
       },
       "file:r:pdf": {
         "url": "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf",
-        "sha256": "0c888edd51a32d8b4fd88e057e97c7709066fd6a6dbe39212ebb358d2271e367"
+        "sha256": "9d3988a95af44cfd0d31bab45e8fb3812b7a68153e5baa2e90dc47bfc95e86d0"
       }
     },
     "skip_other_files": true

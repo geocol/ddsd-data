@@ -5,7 +5,7 @@
     "files": {
       "file:r:page": {
         "url": "https://opendata-api-kakogawa.jp/odp/tos/",
-        "sha256": "5982e69a0fcf0cd7bdff22923a69983ab771a385b850111ecda9627df4f9135f"
+        "sha256": "d188137c7778697ae11a87fc31faf1cb3d1d95dc7802fbddbcf93ca9d5ff1a03"
       }
     },
     "skip_other_files": true

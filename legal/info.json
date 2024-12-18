@@ -399,6 +399,21 @@
       }
     ]
   },
+  "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-r060917": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "金沢市オープンデータポータル 利用規約",
+    "full_url": "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+    "conditional": [
+      {
+        "type": "license",
+        "key": "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi-r060917"
+      },
+      {
+        "type": "license",
+        "key": "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken-r060917"
+      }
+    ]
+  },
   "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi": {
     "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
     "label": "金沢市オープンデータ利用規約 (平成 29 年１月 30 日から施行)",
@@ -418,7 +433,45 @@
       }
     ]
   },
+  "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi-r060917": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "金沢市オープンデータ利用規約 (令和６年９月 17 日から施行)",
+    "full_url": "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf",
+    "alt": [
+      {
+        "type": "fallback_license",
+        "key": "-ddsd-cc",
+        "notice": {
+          "holder": "金沢市",
+          "template_not_modified": "「{title}」（{holder}）（{url}）",
+          "template": "「{title}」（{holder}）（{url}）を加工して作成",
+          "need_title": true,
+          "need_url": true,
+          "need_holder": true
+        }
+      }
+    ]
+  },
   "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "石川中央都市圏オープンデータ",
+    "full_url": "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+    "alt": [
+      {
+        "type": "fallback_license",
+        "key": "-ddsd-cc",
+        "notice": {
+          "holder": "石川中央都市圏オープンデータ ",
+          "template_not_modified": "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）",
+          "template": "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）を加工して作成",
+          "need_title": true,
+          "need_url": true,
+          "need_holder": true
+        }
+      }
+    ]
+  },
+  "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken-r060917": {
     "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
     "label": "石川中央都市圏オープンデータ",
     "full_url": "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
