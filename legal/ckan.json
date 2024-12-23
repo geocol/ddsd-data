@@ -168,14 +168,6 @@
     "agreement": "Project PLATEAUのサイトポリシーに従って、どなたでも 、複製、公衆送信、翻訳・変形等の翻案等、自由に利用できます。商用利用も可能です。（https://www.mlit.go.jp/plateau/site-policy/）\u0009",
     "is": "-ddsd-plateau"
   },
-  {
-    "extracted_url": "https://www.digital.go.jp/policies/base_registry_address_tos",
-    "is": "-ddsd-base_registry_address_tos"
-  },
-  {
-    "extracted_url": "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
-    "is": "-ddsd-houmusyouchizu-riyoukiyaku"
-  },
 
   {
     "id": "Apache-2.0",

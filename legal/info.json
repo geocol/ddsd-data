@@ -386,7 +386,7 @@
   },
   "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp": {
     "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
-    "label": "金沢市オープンデータポータル 利用規約",
+    "label": "金沢市オープンデータポータル 利用規約 (平成 29 年１月 30 日から施行)",
     "full_url": "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
     "conditional": [
       {
@@ -401,7 +401,7 @@
   },
   "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-r060917": {
     "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
-    "label": "金沢市オープンデータポータル 利用規約",
+    "label": "金沢市オープンデータポータル 利用規約 (令和６年９月 17 日から施行)",
     "full_url": "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
     "conditional": [
       {
