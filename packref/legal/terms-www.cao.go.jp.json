@@ -1,0 +1,22 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "https://www.cao.go.jp/notice/rule.html",
+        "# XXX sha256": "60c399e1a0200bd38b55851b76abb154110a137a1a398a43133b42d65457ceae"
+      }
+    },
+    "skip_other_files": true
+  },
+  "terms_url": "https://www.cao.go.jp/notice/rule.html",
+  "packref_license": "CC0-1.0",
+  "meta": {
+    "lang": "ja",
+    "title": "内閣府ホームページ利用規約 (令和元年5月15日現在)",
+    "author": "内閣府",
+    "page_url": "https://www.cao.go.jp/notice/rule.html"
+  },
+  "is_legal": true
+}
