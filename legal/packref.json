@@ -6,6 +6,9 @@
       "file:r:ckan.json": {
         "url": "ckan.json"
       },
+      "file:r:dcatus.json": {
+        "url": "dcatus.json"
+      },
       "file:r:websites.json": {
         "url": "websites.json"
       },
