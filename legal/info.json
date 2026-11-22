@@ -259,6 +259,27 @@
       }
     ]
   },
+  "-ddsd-base_registry_address_tos-r080529": {
+    "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",
+    "label": "アドレス・ベース・レジストリの利用規約 (最終更新日:\n    2026年5月29日 )",
+    "full_url": "https://www.digital.go.jp/policies/base_registry_address_tos",
+    "notice": {
+      "template_not_modified": "出典：「{title}」（{holder}）（{url}）",
+      "template": "「{title}」（{holder}）（{url}）を加工して作成",
+      "need_holder": true,
+      "holder": "デジタル庁",
+      "need_title": true,
+      "need_url": true,
+      "need_modified_flag": true
+    },
+
+    "alt": [
+      {
+        "type": "license",
+        "key": "-ddsd-pdl1.0"
+      }
+    ]
+  },
   
   "-ddsd-houmusyouchizu-riyoukiyaku": {
     "lang": "ja", "dir": "ltr", "writing_mode": "horizontal-tb",

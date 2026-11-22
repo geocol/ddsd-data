@@ -1,0 +1,22 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "https://www.digital.go.jp/policies/base_registry_address_tos",
+        "sha256": "7bb8322dbd303bbfecb4c6a2dc293a4136357051ff1dcffdb3face1f000f57d8"
+      }
+    },
+    "skip_other_files": true
+  },
+  "terms_url": "https://www.digital.go.jp/policies/base_registry_address_tos",
+  "packref_license": "CC0-1.0",
+  "meta": {
+    "lang": "ja",
+    "title": "アドレス・ベース・レジストリの利用規約 (最終更新日:\n    2026年5月29日)",
+    "author": "デジタル庁",
+    "page_url": "https://www.digital.go.jp/policies/base_registry_address_tos"
+  },
+  "is_legal": true
+}

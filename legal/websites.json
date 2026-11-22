@@ -59,9 +59,9 @@
     "terms_url": "https://www.digital.go.jp/policies/base_registry_address_tos",
     "source": {
       "type": "packref",
-      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/base_registry_address_tos.json"
+      "url": "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-base_registry_address_tos.json"
     },
-    "legal_key": "-ddsd-base_registry_address_tos"
+    "legal_key": "-ddsd-base_registry_address_tos-r080529"
   },
   {
     "terms_url": "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",

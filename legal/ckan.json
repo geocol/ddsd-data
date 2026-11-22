@@ -185,13 +185,13 @@
   },
 
   {
-    "is": "gfdl",
+    "id": "gfdl",
     "title": "GNU Free Documentation License",
     "url": "http://www.opendefinition.org/licenses/gfdl",
     "is": "-ddsd-gfdl"
   },
   {
-    "is": "gfdl",
+    "id": "gfdl",
     "title": "GNU Free Documentation License",
     "url": "http://www.opendefinition.org/licenses/gfdl",
     "agreement": "",
