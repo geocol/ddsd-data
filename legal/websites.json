@@ -56,6 +56,7 @@
     "legal_key": "-ddsd-terms-catalog.registries.digital.go.jp"
   },
   {
+    "url_prefix": "https://dataset.address-br.digital.go.jp/",
     "terms_url": "https://www.digital.go.jp/policies/base_registry_address_tos",
     "source": {
       "type": "packref",
