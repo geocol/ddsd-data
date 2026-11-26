@@ -1,11 +1,16 @@
 {
   "type": "packref",
   "source": {
-    "type": "files",
+    "type" : "filtered",
+    "upstream_file_key" : "file:r:page"
+    "filter" : "strip_tags",
+    "source" : {
+      "type" : "packref",
+      "url" : "terms-base_registry_address_tos-current.json"
+    },
     "files": {
-      "file:r:page": {
-        "url": "https://www.digital.go.jp/policies/base_registry_address_tos",
-        "sha256": "1749ba4bfcdce85084c0958e1e8c348c2c6b2bfb7af046c233310e89a39d6f5a"
+      "file": {
+        "sha256": "1cfd4d2c436ce150f67c8a688029fef19e6c4a2dc2d98ef85df00f7a1d442d50"
       }
     },
     "skip_other_files": true

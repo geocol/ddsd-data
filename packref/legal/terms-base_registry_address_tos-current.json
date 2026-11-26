@@ -1,0 +1,21 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:page": {
+        "url": "https://www.digital.go.jp/policies/base_registry_address_tos"
+      }
+    },
+    "skip_other_files": true
+  },
+  "terms_url": "https://www.digital.go.jp/policies/base_registry_address_tos",
+  "packref_license": "CC0-1.0",
+  "meta": {
+    "lang": "ja",
+    "title": "アドレス・ベース・レジストリの利用規約",
+    "author": "デジタル庁",
+    "page_url": "https://www.digital.go.jp/policies/base_registry_address_tos"
+  },
+  "is_legal": true
+}
