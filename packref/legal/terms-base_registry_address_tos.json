@@ -2,7 +2,7 @@
   "type": "packref",
   "source": {
     "type" : "filtered",
-    "upstream_file_key" : "file:r:page"
+    "upstream_file_key" : "file:r:page",
     "filter" : "strip_tags",
     "source" : {
       "type" : "packref",
