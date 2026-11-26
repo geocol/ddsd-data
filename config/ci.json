@@ -2,6 +2,7 @@
   "github": {
     "pages": {
       "build_secrets": ["DDSDRUN_DOCKER_IMAGE"]
-    }
+    },
+    "gaa": true
   }
 }
