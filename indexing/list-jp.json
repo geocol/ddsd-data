@@ -1,0 +1,7 @@
+{
+  "items": [
+    ["https://dataset.address-br.digital.go.jp/api/feed/dcat-us/1.1.json", "dcatus", "dataset.address-br.digital.go.jp", {
+      "tags": ["ABR", "デジタル庁", "日本"]
+    }]
+  ]
+}

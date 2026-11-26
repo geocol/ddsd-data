@@ -1,0 +1,18 @@
+{
+  "type": "packref",
+  "source": {
+    "type": "files",
+    "files": {
+      "file:r:list-jp.json": {
+        "url": "list-jp.json",
+        "name": "list.json"
+      },
+      "file:r:prioritized.json": {
+        "url": "https://gist.githubusercontent.com/wakaba/d674f68a9d29fdcb89c3b1f12add9014/raw/prioritized.json",
+        "name": "prioritized.json"
+      }
+    }
+  },
+  "content_license": "CC0-1.0",
+  "packref_license": "CC0-1.0"
+}
